@@ -18,6 +18,8 @@ Predict the healthcare risk level (Low, Medium, High) based on input features us
 Save the user input and predicted results into a JSON file for future reference.<br>
 Installation<br>
 <br>
+![image](https://github.com/user-attachments/assets/0718e524-70b3-462e-b621-5b04468c4708)
+
 **To run this project on your local machine, follow these steps:**<br>
 
 1. Clone the Repository<br>
