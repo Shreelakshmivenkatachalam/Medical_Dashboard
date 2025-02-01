@@ -18,7 +18,8 @@ Predict the healthcare risk level (Low, Medium, High) based on input features us
 Save the user input and predicted results into a JSON file for future reference.<br>
 Installation<br>
 <br>
-![image](https://github.com/user-attachments/assets/0718e524-70b3-462e-b621-5b04468c4708)
+
+
 
 **To run this project on your local machine, follow these steps:**<br>
 
@@ -61,10 +62,16 @@ Blood Pressure Distribution: A histogram for the blood pressure distribution.<br
 Correlation Heatmap: A heatmap that visualizes the correlation between numeric features.<br>
 Summary Statistics: After the charts, the summary statistics of the filtered data are displayed.<br>
 <br>
+![image](https://github.com/user-attachments/assets/d5940d9b-a88a-4a47-91ef-59666bccf6f7)
+<br>
+![image](https://github.com/user-attachments/assets/26bec727-2675-4ef3-89fd-83ce176e516e)
+<br>
 **Risk Prediction Page:**<br>
 Inputs: The user can input various health data such as age, blood level, pressure rate, sugar level, and glucose level.<br>
 Prediction: When the user clicks on the "Predict Risk" button, the app uses the trained model to predict the patient's risk level (Low, Medium, or High).<br>
 Save Data: The user inputs and the predicted result are saved to a JSON file (patients.json) for future reference.<br>
+<br>
+![image](https://github.com/user-attachments/assets/6accfd4b-3597-434a-88c7-4da01fb44c4b)
 <br>
 **Files in the Project**<br>
 app.py: The main application file containing the Streamlit dashboard and risk prediction system code.<br>
